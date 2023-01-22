@@ -1,0 +1,28 @@
+.maincontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+input{
+    width: 800px;
+    height: 50px;
+}
+.webforms{
+  margin: 20px;
+}
+
+#Submit{
+    width: 160px;
+    height: 40px;
+    font-size: 20px;
+    background-color: green;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+p{
+    color: orange;
+}
